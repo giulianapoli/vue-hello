@@ -4,7 +4,7 @@
 const myApp = new Vue ({
   el: '#root',
   data: {
-    message: 'Hello World'
+    message: 'Hello World!',
+    image: 'img/boolean_logo.png'
   }
 });
-// console.log(myApp);
